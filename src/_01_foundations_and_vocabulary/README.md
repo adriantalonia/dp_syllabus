@@ -12,6 +12,12 @@ A complete pattern description has four parts:
 - **Solution** — the arrangement of classes, objects, and responsibilities
 - **Consequences** — trade-offs, results, and known uses
 
+**🎤 Interview Quick-Fire**
+- *Q: "Pattern vs. Principle?"* → Principles are guiding rules (SOLID, "encapsulate what varies"). Patterns are concrete solutions that embody those rules.
+- *Q: "When NOT to use a pattern?"* → When the problem is simple/stable. YAGNI first; refactor toward a pattern when change becomes frequent.
+
+---
+
 ### 1.2 Pattern Classification
 
 | Category | Focus | GoF Count | Examples |
