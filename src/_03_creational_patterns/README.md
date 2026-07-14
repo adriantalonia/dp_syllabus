@@ -2,6 +2,14 @@
 
 > **Intent:** Control *how* objects are created — decouple clients from the specifics of what gets created, when, and how.
 
+<!-- TOC -->
+  * [3. Creational Patterns](#3-creational-patterns)
+    * [3.1 Singleton](#31-singleton)
+    * [3.2 Factory Method](#32-factory-method)
+    * [3.3 Abstract Factory](#33-abstract-factory)
+    * [3.4 Builder](#34-builder)
+    * [3.5 Prototype](#35-prototype)
+<!-- TOC -->
 ---
 
 ### 3.1 Singleton

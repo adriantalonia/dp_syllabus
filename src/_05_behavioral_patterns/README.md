@@ -2,6 +2,21 @@
 
 > **Intent:** Concerned with algorithms and the assignment of responsibilities between objects.
 
+<!-- TOC -->
+  * [5. Behavioral Patterns](#5-behavioral-patterns)
+    * [5.1 Chain of Responsibility](#51-chain-of-responsibility)
+    * [5.2 Command](#52-command)
+    * [5.3 Interpreter](#53-interpreter)
+    * [5.4 Iterator](#54-iterator)
+    * [5.5 Mediator](#55-mediator)
+    * [5.6 Memento](#56-memento)
+    * [5.7 Observer](#57-observer)
+    * [5.8 State](#58-state)
+    * [5.9 Strategy](#59-strategy)
+    * [5.10 Template Method](#510-template-method)
+    * [5.11 Visitor](#511-visitor)
+<!-- TOC -->
+
 ---
 
 ### 5.1 Chain of Responsibility

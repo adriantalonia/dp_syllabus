@@ -2,6 +2,17 @@
 
 > **Intent:** Compose classes and objects into larger structures while keeping them flexible and efficient.
 
+<!-- TOC -->
+  * [4. Structural Patterns](#4-structural-patterns)
+    * [4.1 Adapter](#41-adapter)
+    * [4.2 Bridge](#42-bridge)
+    * [4.3 Composite](#43-composite)
+    * [4.4 Decorator](#44-decorator)
+    * [4.5 Facade](#45-facade)
+    * [4.6 Flyweight](#46-flyweight)
+    * [4.7 Proxy](#47-proxy)
+<!-- TOC -->
+
 ---
 
 ### 4.1 Adapter
